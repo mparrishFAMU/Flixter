@@ -22,9 +22,9 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+https://github.com/mparrishFAMU/Flixter/blob/master/walkthroughFLIXTERpart2.gif
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/mparrishFAMU/Flixter/blob/master/walkthroughFLIXTERpart2.gifE" width=250><br>
 
 ### Notes
 
@@ -54,7 +54,7 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 https://github.com/mparrishFAMU/Flixter/blob/master/walkthroughFLIXTER.gif
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/mparrishFAMU/Flixter/blob/master/walkthroughFLIXTER.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
